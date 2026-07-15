@@ -1,25 +1,21 @@
-<<<<<<< HEAD
+
 # 🌐 MyPortfolio
 
 > *Every developer has a first project that marks the beginning of a bigger journey. This portfolio is mine.*
 
 ## 📖 Overview
 
-=======
 # 🌐 Zihntech-Academy_HTML-CSS
 
 > *Every developer has a first project that marks the beginning of a bigger journey. This Zihntech-Academy_HTML-CSS is mine.*
 
 ## 📖 Overview
 
->>>>>>> 805828a05ad65e7c7fc78a19175ebca68c405827
 **MyPortfolio** is a fully responsive personal portfolio website built with **HTML5** and **CSS3**. It represents more than just a collection of web pages—it reflects my commitment to mastering frontend development, writing clean code, and creating meaningful digital experiences.
 
 This project focuses on transforming simple ideas into an elegant, responsive, and user-friendly interface while strengthening my understanding of semantic HTML, modern CSS, responsive layouts, and web design principles.
 
 As I continue growing as a frontend developer, this repository serves as a milestone in my learning journey and a foundation for more advanced projects.
-
----
 
 ## ✨ Project Highlights
 
@@ -31,16 +27,12 @@ As I continue growing as a frontend developer, this repository serves as a miles
 * 🚀 Optimized for readability and future scalability
 * 💻 Designed to showcase my skills, projects, and professional journey
 
----
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose                                         |
 | ---------- | ----------------------------------------------- |
 | HTML5      | Semantic page structure                         |
 | CSS3       | Styling, layout, responsiveness, and animations |
-
----
 
 ## 📁 Project Structure
 
@@ -55,19 +47,12 @@ MyPortfolio/
 └── README.md
 ```
 
----
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the Repository
 
-```bash
-<<<<<<< HEAD
-git clone https://github.com/YOUR_USERNAME/MyPortfolio.git
-=======
 git clone https://github.com/mustaphasam20-ui/Zihntech-Academy_HTML-CSS.git
->>>>>>> 805828a05ad65e7c7fc78a19175ebca68c405827
-```
 
 ### Navigate into the Project
 
@@ -78,8 +63,6 @@ cd MyPortfolio
 ### Open the Website
 
 Simply open the **index.html** file in your preferred web browser.
-
----
 
 ## 🎯 Project Goals
 
@@ -94,8 +77,6 @@ This project was built to strengthen my understanding of:
 * Clean Code Practices
 * Project Organization
 
----
-
 ## 🌱 Why This Project Matters
 
 I believe every great frontend developer starts by mastering the fundamentals.
@@ -105,8 +86,6 @@ Instead of rushing into frameworks, I chose to build this project using only HTM
 This repository represents consistency, curiosity, and continuous improvement—not perfection.
 
 Every line of code written here is another step toward becoming a better engineer.
-
----
 
 ## 🤝 Contributing
 
@@ -120,8 +99,6 @@ If you'd like to contribute:
 4. Push your branch.
 5. Open a Pull Request.
 
----
-
 ## 📌 Future Improvements
 
 * Add JavaScript interactions
@@ -132,13 +109,9 @@ If you'd like to contribute:
 * Migrate to React
 * Deploy with a custom domain
 
----
-
 ## 📜 License
 
 This project is open for educational purposes and personal learning.
-
----
 
 ## 👨‍💻 Author
 
@@ -150,9 +123,7 @@ I believe that great interfaces are not just designed—they are crafted with em
 
 ### Let's Connect
 
-<<<<<<< HEAD
 * GitHub: https://github.com/YOUR_USERNAME
-=======
+
 * GitHub: https://GitHub: https://github.com/mustaphasam20-u
->>>>>>> 805828a05ad65e7c7fc78a19175ebca68c405827
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+
