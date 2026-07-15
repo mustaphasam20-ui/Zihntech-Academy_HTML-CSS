@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 # 🌐 MyPortfolio
 
 > *Every developer has a first project that marks the beginning of a bigger journey. This portfolio is mine.*
 
 ## 📖 Overview
 
+=======
+# 🌐 Zihntech-Academy_HTML-CSS
+
+> *Every developer has a first project that marks the beginning of a bigger journey. This Zihntech-Academy_HTML-CSS is mine.*
+
+## 📖 Overview
+
+>>>>>>> 805828a05ad65e7c7fc78a19175ebca68c405827
 **MyPortfolio** is a fully responsive personal portfolio website built with **HTML5** and **CSS3**. It represents more than just a collection of web pages—it reflects my commitment to mastering frontend development, writing clean code, and creating meaningful digital experiences.
 
 This project focuses on transforming simple ideas into an elegant, responsive, and user-friendly interface while strengthening my understanding of semantic HTML, modern CSS, responsive layouts, and web design principles.
@@ -53,7 +62,11 @@ MyPortfolio/
 ### Clone the Repository
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/YOUR_USERNAME/MyPortfolio.git
+=======
+git clone https://github.com/mustaphasam20-ui/Zihntech-Academy_HTML-CSS.git
+>>>>>>> 805828a05ad65e7c7fc78a19175ebca68c405827
 ```
 
 ### Navigate into the Project
@@ -137,5 +150,9 @@ I believe that great interfaces are not just designed—they are crafted with em
 
 ### Let's Connect
 
+<<<<<<< HEAD
 * GitHub: https://github.com/YOUR_USERNAME
+=======
+* GitHub: https://GitHub: https://github.com/mustaphasam20-u
+>>>>>>> 805828a05ad65e7c7fc78a19175ebca68c405827
 * LinkedIn: https://linkedin.com/in/YOUR_PROFILE
